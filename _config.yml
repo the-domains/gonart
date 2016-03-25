@@ -1,0 +1,28 @@
+name: gonart
+favicon: null
+layout_spectrum: 0.7308383819181472
+typography_spectrum: 0.02393869194202125
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5829033821355551
+  lightness: 0.711632541147992
+  saturation: 0.743698856793344
+  rhythmicContrast: 0.07287795492447913
+purpose: []
